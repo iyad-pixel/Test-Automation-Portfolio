@@ -8,9 +8,8 @@ I'm a software quality engineer with experience in automated and manual testing,
 my experience is mostly with using Cypress framework which includes adding, maintaining 
 and optimizing automated test scrips, by focusing on creating tests which are stable, future-proof and have decent coverage.
 
-I also have familiarity with other testing tools such as Selenium, Pytest and Playwright.
-
-I have worked with well known projects in the fields of digital media and e-commerce.
+I also have familiarity with other testing tools such as Selenium, Pytest and Playwright,
+and always willing to improve and learn new technologies and trends.
 
 ## Contact
 [LinkedIn Page](https://www.linkedin.com/in/iyad-al-yadak-076280170/)
