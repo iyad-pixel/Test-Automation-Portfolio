@@ -1,9 +1,11 @@
 {
   "name": "cypress-port",
   "version": "1.0.0",
-  "description": "Portifolio",
+  "description": "Portfolio",
   "main": "index.js",
   "scripts": {
+    "run-amazon-cart" : "npx cypress run amazonCart",
+    "open-tests" : "npx cypress open",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
