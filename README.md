@@ -1,5 +1,5 @@
 # Test Automation Portfolio
-This Portfolio includes samples of my work ond coding style.
+This Portfolio includes samples of my work and coding style.
 It currently includes an end to end test for adding a product to cart in https://amazon.com/ using Cypress.
 More work to be added!
 
