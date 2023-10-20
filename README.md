@@ -10,5 +10,7 @@ and optimizing automated test scrips, by focusing on creating tests which are st
 
 I also have familiarity with other testing tools such as Selenium, Pytest and Playwright.
 
+I have worked with well known projects in the fields of digital media and e-commerce.
+
 ## Contact
 [LinkedIn Page](https://www.linkedin.com/in/iyad-al-yadak-076280170/)
