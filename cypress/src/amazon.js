@@ -27,7 +27,6 @@ export class Amazon {
     /**
      * Gets a product by ASIN number
      * @param serialNumber - The ASIN number of the product
-     * @returns 
      */
     getProductBySerialNumber = (serialNumber) => cy.get(`[data-asin="${serialNumber}"]`);
 
